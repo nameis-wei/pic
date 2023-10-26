@@ -1,0 +1,122 @@
+{
+  "picBed": {
+    "current": "github",
+    "uploader": "github",
+    "smms": {
+      "token": ""
+    },
+    "github": {
+      "_configName": "pic",
+      "_id": "09c9737d-42a4-477c-9d60-c5fcb6a4a65e",
+      "_createdAt": 1698336064916,
+      "_updatedAt": 1698337225862,
+      "repo": "nameis-wei/pic",
+      "branch": "master",
+      "token": "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",
+      "path": "",
+      "customUrl": "https://raw.githubusercontent.com/[useris-wei]/[pic]/[master]"
+    },
+    "list": [
+      {
+        "type": "tcyun",
+        "name": "腾讯云COS",
+        "visible": false
+      },
+      {
+        "type": "aliyun",
+        "name": "阿里云OSS",
+        "visible": false
+      },
+      {
+        "type": "smms",
+        "name": "SM.MS",
+        "visible": false
+      },
+      {
+        "type": "github",
+        "name": "GitHub",
+        "visible": true
+      },
+      {
+        "type": "qiniu",
+        "name": "七牛云",
+        "visible": false
+      },
+      {
+        "type": "imgur",
+        "name": "Imgur",
+        "visible": false
+      },
+      {
+        "type": "upyun",
+        "name": "又拍云",
+        "visible": false
+      },
+      {
+        "type": "webdavplist",
+        "name": "WebDAV",
+        "visible": false
+      },
+      {
+        "type": "local",
+        "name": "本地上传",
+        "visible": true
+      },
+      {
+        "type": "sftpplist",
+        "name": "内置SFTP",
+        "visible": false
+      },
+      {
+        "type": "telegraphplist",
+        "name": "Telegraph",
+        "visible": false
+      },
+      {
+        "type": "piclist",
+        "name": "PicList",
+        "visible": true
+      }
+    ]
+  },
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": true,
+        "key": "CommandOrControl+Shift+P",
+        "name": "upload",
+        "label": "QUICK_UPLOAD"
+      }
+    },
+    "isListeningClipboard": false,
+    "showUpdateTip": true,
+    "sync": {
+      "type": "github",
+      "username": "nameis-wei",
+      "repo": "pic",
+      "branch": "master",
+      "token": "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",
+      "proxy": "",
+      "interval": 60
+    }
+  },
+  "needReload": false,
+  "uploader": {
+    "github": {
+      "configList": [
+        {
+          "_configName": "pic",
+          "_id": "09c9737d-42a4-477c-9d60-c5fcb6a4a65e",
+          "_createdAt": 1698336064916,
+          "_updatedAt": 1698337225862,
+          "repo": "nameis-wei/pic",
+          "branch": "master",
+          "token": "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",
+          "path": "",
+          "customUrl": "https://raw.githubusercontent.com/[useris-wei]/[pic]/[master]"
+        }
+      ],
+      "defaultId": "09c9737d-42a4-477c-9d60-c5fcb6a4a65e"
+    }
+  }
+}
